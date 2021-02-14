@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Container(
-            width: 130,
+            width: 120,
             child: Text(
               'Vilda Nur Amalia 1931710026',
               textAlign: TextAlign.center,
